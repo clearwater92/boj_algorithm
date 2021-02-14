@@ -1,3 +1,5 @@
+# 1로 만들기 - 실버3
+
 x = int(input())
 dp = [0 for _ in range(x+1)]
 for i in range(2, x+1):

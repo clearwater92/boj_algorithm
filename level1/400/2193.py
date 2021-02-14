@@ -1,3 +1,5 @@
+# 이친수 - 실버3
+
 n = int(input())
 
 dp = [0 for _ in range(91)]

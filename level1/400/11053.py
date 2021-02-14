@@ -1,3 +1,5 @@
+# 가장 긴 증가하는 부분 순열 - 실버 2
+
 n = int(input())
 arr = list(map(int, input().split()))
 dp = [1 for _ in range(1, 1001)]

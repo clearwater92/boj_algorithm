@@ -1,3 +1,5 @@
+# 제곱수의 합 - 실버3
+
 n = int(input())
 dp = [0 for _ in range(100001)]
 
